@@ -1,0 +1,42 @@
+Initiating multilayer perceptron network learning procedure.
+
+Initial configuration:
+
+Bias: set
+Randomize weights: set
+Randomize patterns: set
+Learning step: 0.2
+Momentum: 0
+Epochs: 50000
+Precision: 0.001
+Input network path: input.net
+Output network path: output.net
+Testing sets path: default.set
+Log path: perceptron.log
+Log voice: not set
+Log step: 20
+Log output each log step: set
+Log network each log step: set
+Log testing output: set
+Log testing network: set
+
+
+Network structure:
+
+[Topology]
+4; 2; 4; 
+
+[Layer]
+
+[Layer]
+-0.813; 0.06; -0.711; 0.554; 0.188; 
+0.05; -0.984; 0.077; -0.582; -0.79; 
+
+[Layer]
+-0.816; -0.59; -0.169; 
+0.842; -0.83; 0.87; 
+0.051; -0.578; -0.464; 
+0.566; -0.095; 0.605; 
+
+Initiating epoch 0.
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Perceptron">
+</Property><Property Name="Solution File" Value="I:\Projects\labs\OI\Perceptron\Perceptron.sln">
+</Property><Property Name="Date" Value="29 maja 2012">
+</Property><Property Name="Time" Value="12:31:52">
+</Property></Properties><Event ErrorLevel="0" Project="Perceptron" Source="Perceptron.vcproj" Description="Converting project file 'I:\Projects\labs\OI\Perceptron\Perceptron.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Perceptron" Source="Perceptron.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Perceptron" Source="Perceptron.vcproj" Description="Done converting to new project file 'I:\Projects\labs\OI\Perceptron\Perceptron.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Perceptron" Source="Perceptron.vcproj" Description="Converted">
+</Event></UpgradeLog>

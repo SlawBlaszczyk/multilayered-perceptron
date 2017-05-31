@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ main.cpp Perceptron.cpp Layer.cpp Neuron.cpp ConfigFile.cpp -o perceptron
